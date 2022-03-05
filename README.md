@@ -29,4 +29,4 @@ contact the *module maintainer*.
 
 ## Documentation
 
-Documentation can be found at [alt:V Docs](http://docs.altv.mp/)
+Documentation can be found at [alt:V Docs](http://docs.altv.mp/) 
